@@ -53,6 +53,11 @@ gray - green red
 38 - ethernet off + text inputs
 39 - ethernet on + text inputs
 ### t5 t6 t7
+### b1 b2
+71 - save
+72 - save hober
+73 - cancel
+74 - cancel hover
 
 ## **electric_ctrl** (page 2)
 40 - electric control background
@@ -101,7 +106,7 @@ gray - green red
 67 - back btn
 68 - back btn hover
 
-## **light_ctrl** (page 3)
+## **light_ctrl** (page 4)
 40 - electric control background
 ### b0
 41 - group 1 off status (ON action)
@@ -140,12 +145,176 @@ gray - green red
 67 - back btn
 68 - back btn hover
 
-## **light_conf** (page 4)
+## **light_conf** (page 5)
 69 - electric configs background
 ### t0-t5, q0-q5
 70 - electric text inputs
 ### b0
 67 - back btn
 68 - back btn hover
+
+## **temperature_ctrl** (page 6)
+75 - temp_ctrl page background
+### q0
+76 - boil element 1 gray
+### q1
+77 - boil element 2 gray
+### q2
+78 - boil element 3 gray
+### q3
+79 - boil element 4 gray
+### q4
+80 - boil element 5 gray
+### q5
+81 - boil element 6 gray
+### q6
+82 - boil element 7 gray
+### q7
+83 - boil element 8 gray
+### q8
+84 - boil element 9 gray
+### q9
+85 - boil element 10 gray
+### q10
+86 - boil element 11 gray
+### q11
+87 - boil element 12 gray
+### q12
+88 - boil element 13 gray
+### q13
+89 - boil element 14 gray
+### q14
+90 - boil element 15 gray
+### q15
+91 - boil element 16 gray
+### q0
+92 - boil element 1 green
+### q1
+93 - boil element 2 green
+### q2
+94 - boil element 3 green
+### q3
+95 - boil element 4 green
+### q4
+96 - boil element 5 green
+### q5
+97 - boil element 6 green
+### q6
+98 - boil element 7 green
+### q7
+99 - boil element 8 green
+### q8
+100 - boil element 9 green
+### q9
+101 - boil element 10 green
+### q10
+102 - boil element 11 green
+### q11
+103 - boil element 12 green
+### q12
+104 - boil element 13 green
+### q13
+105 - boil element 14 green
+### q14
+106 - boil element 15 green
+### q15
+107 - boil element 16 green
+### q0
+108 - boil element 1 red
+### q1
+109 - boil element 2 red
+### q2
+110 - boil element 3 red
+### q3
+111 - boil element 4 red
+### q4
+112 - boil element 5 red
+### q5
+113 - boil element 6 red
+### q6
+114 - boil element 7 red
+### q7
+115 - boil element 8 red
+### q8
+116 - boil element 9 red
+### q9
+117 - boil element 10 red
+### q10
+118 - boil element 11 red
+### q11
+119 - boil element 12 red
+### q12
+120 - boil element 13 red
+### q13
+121 - boil element 14 red
+### q14
+122 - boil element 15 red
+### q15
+123 - boil element 16 red
+### q16
+124 - battery element 1 red
+### q17
+125 - battery element 2 red
+### q18
+126 - battery element 3 red
+### q19
+127 - battery element 4 red
+### q20
+128 - battery element 5 red
+### q21
+129 - battery element 6 red
+### q22
+130 - battery element 7 red
+### q23
+131 - battery element 8 red
+### q24
+132 - battery element 9 red
+### q25
+133 - battery element 10 red
+### q26
+134 - battery element 11 red
+### q27
+135 - battery element 12 red
+### q28
+136 - battery element 13 red
+### q29
+137 - battery element 14 red
+### q30
+138 - battery element 15 red
+### q31
+139 - battery element 16 red
+### q16
+140 - battery element 1 green
+### q17
+141 - battery element 2 green
+### q18
+142 - battery element 3 green
+### q19
+143 - battery element 4 green
+### q20
+144 - battery element 5 green
+### q21
+145 - battery element 6 green
+### q22
+146 - battery element 7 green
+### q23
+147 - battery element 8 green
+### q24
+148 - battery element 9 green
+### q25
+149 - battery element 10 green
+### q26
+150 - battery element 11 green
+### q27
+151 - battery element 12 green
+### q28
+152 - battery element 13 green
+### q29
+153 - battery element 14 green
+### q30
+154 - battery element 15 green
+### q31
+155 - battery element 16 green
+
 
 
