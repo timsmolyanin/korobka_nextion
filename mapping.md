@@ -316,5 +316,77 @@ gray - green red
 ### q31
 155 - battery element 16 green
 
+## **temp_conf1** (page 7)
+69 - temperature configs 1 background
+### t0-t5, q0-q5
+70 - electric text inputs
+### b0
+67 - back btn
+68 - back btn hover
+
+## **temp_conf_r1** (page 8)
+157 - temp_conf_r1 background
+### t1
+setpoint temperature
+157 - temperature room1 value 
+### b0
+158 - room 1 off 
+159 - room 1 off hover
+160 - room 1 on
+### b1
+160 - room 2 off 
+161 - room 2 off hover
+162 - room 2 on
+### b2
+163 - room 3 off 
+164 - room 3 off hover
+165 - room 3 on
+### b3
+166 - room 4 off 
+167 - room 4 off hover
+168 - room 4 on
+
+## **water_ctrl** (page 9)
+170 - water_ctrl background
+### q0 - water leaks room 1
+171 - no leak OK status
+177 - yes leak FAULT status
+### q1 - water leaks room 2
+172 - no leak OK status
+178 - yes leak FAULT status
+### q2 - water leaks room 3
+173 - no leak OK status
+179 - yes leak FAULT status
+### q3 - water leaks room 4
+174 - no leak OK status
+180 - yes leak FAULT status
+### q4 - water leaks room 5
+175 - no leak OK status
+181 - yes leak FAULT status
+### q5 - water leaks room 6
+176 - no leak OK status
+182 - yes leak FAULT status
+### q6 - cold water status
+183 - no leak cold water green
+184 - yes leak cold water valve has closed auto red
+### q7 - cold water text status
+185 - no leak cold water green
+186 - yes leak valve has closed auto red
+### t0 - result value of cold water m3
+### t1 - result of the last day m3
+### t2 - result of the last month m3
+
+### q8 - warm water status
+187 - no leak warm water green
+188 - yes leak warm water valve has closed auto red
+### q9 - warm water text status
+189 - no leak warm water green
+190 - yes leak warm water valve has closed auto red
+### t3 - result value of warm water m3
+### t4 - result of the last day m3
+### t5 - result of the last month m3
+
+
+
 
 
